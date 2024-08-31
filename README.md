@@ -19,8 +19,8 @@
 #### ⛏🧱 <ins>Minecraft</ins>
 - One day as I was playing **Minecraft**, I noticed a group of gamers looking for a programmer to work on their server (if you don't know what a server is, it's a place where people can play together) and thought to myself “I already know how to code in C#, it will be easy for me to learn Java”. And that's how I joined [Helvetis](http://play.helvetis.net/helvetis/index.html)
 #### 🥰 <ins>Helvetis</ins>
-- I joined this project at the beginning of may 2020 and it's still going on! 😄  
-- In this team, we are 5: Wrench: the system admin; Koordan: the builder; Sweet: the organizer; Clim: the modarator; and me: the developer!  
+- I joined this project at the beginning of may 2020 to 2023  
+- In this team, we where 5: Wrench: the system admin; Koordan: the builder; Sweet: the organizer; Clim: the modarator; and me: the developer!  
 - Our goal with this server is to attract as many players as possible.
 - After joining this project I quickly became **Administrator**. The experience of meeting people randomly on the internet and creating a team project without knowing them at all is still stunning for me. This made me learn not only how to attract players but also gave me the role of a professional programmer and community manager.  
 - Throughout these years I have met a lot of gamers from all over the world. Without this project none of these encounters could have been possible. Some were nice some not so...  
@@ -29,20 +29,35 @@
 #### ![spigot-og](https://user-images.githubusercontent.com/46197750/193434448-f0ee923c-6e06-4322-aac0-04185cffb521.png) <ins>[SpigotMC](https://www.spigotmc.org)</ins>
 - SpigotMC is a forum around Minecraft, where you can find many plugins (a plugin is an original game extension)  
 - On this forum I [sold](https://www.spigotmc.org/threads/colsed-experienced-developer-affordable-easy-to-use-fully-configurable-plugins.517832/) on-demand plugins
-- Now, I am selling a Block Party plugin for 19.99€ and I have sold approximately 70. Here is my online store:   
-[![StorePage](https://user-images.githubusercontent.com/46197750/195171030-43dc7768-c752-42fc-b419-53df8f1193bf.png)](https://www.spigotmc.org/resources/yma-block-party-with-music-1-13-1-19.98473/)
+- Now, I am selling a Block Party plugin for 19.99€ and I have sold a bit less then 200. Here is my online store:
+<details>
+<summary>An image of the store</summary>  
+  
+  [<img src="https://user-images.githubusercontent.com/46197750/195171030-43dc7768-c752-42fc-b419-53df8f1193bf.png">](https://www.spigotmc.org/resources/yma-block-party-with-music-1-13-1-19.98473/)  
+</details>
+
 Here is a video:
 [<img src="https://user-images.githubusercontent.com/46197750/175769243-8a5149ab-5d08-45f7-a608-0d7f89154e45.png" width="300">](https://www.youtube.com/watch?v=zZoOd7UQXkU)
 
+- Since jully 2024 the plugin is community [maintened](https://github.com/joschmaCYU/-YMA-BlockParty/). It was a real blast to work on this project for less then 2 years but I wanted to do some new things!
+
 #### 📟 <ins>Embedded System</ins>
-- I am learning embedded system with a Raspberry Pi Pico in rust!
+- I tinkered learning embedded system with a Raspberry Pi Pico in rust! It was hard but I learned a lot of things :)
 
 #### 🏖️ <ins>New horizons</ins>
-- After developing mostly in **Java** for more that 2 years, I wanted to experience new things! And started to develop small personal modules in **Go, AI, Assembly Language, C, Embedded systems, Rust**.   
+- After developing mostly in **Java** for more that 4 years, I wanted to experience new things! And started to develop small personal modules in **Go, AI, Assembly Language, C, Embedded systems, Rust**.   
+
+#### 🤖 Robotcraft / Ingeniarus: Robotics
+- During 2 month I attented [robotcraft](https://robotcraft.ingeniarius.pt/) and completed, the 2024 Summer Internship at Ingeniarus.
+- I learned a lot but most notably [ROS](https://www.ros.org/) which we used extensively in c++. If I had to describe what ROS is it's like whatsapp you can create chat group where people can post information or listen to information. This let's us create very complex systems. You can find the code that I made in ROS [here](https://github.com/joschmaCYU/ROS).
+- This is the [robot](https://youtube.com/shorts/SXlsa0vp95U?feature=share) that we used
+- At the end we had to resolve a maze with our [robot](https://youtube.com/shorts/XMeQIIvutdI)
 
 ## 🛠️ Technical skills
 ### 👨‍💻 Programming languages
 <p>
+  
+<a href="#"><img alt="ROS" src="https://custom-icon-badges.demolab.com/badge/ROS-blue?logo=ros_logo&logoColor=black"></a>
 <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="#"><img alt="Rust" src="https://img.shields.io/badge/-rust-lightgrey?logo=rust&logoColor=white"></a>
 <a href="#"><img alt="Rust" src="https://img.shields.io/badge/-Go-navy?logo=go&logoColor=white"></a>

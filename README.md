@@ -53,6 +53,10 @@ Here is a video:
 - This is the [robot](https://youtube.com/shorts/SXlsa0vp95U?feature=share) that we used
 - At the end we had to resolve a maze with our [robot](https://youtube.com/shorts/XMeQIIvutdI)
 
+#### <ins>CY école de design / CY Tech</ins>
+- I am currently studing at Cy école de design, in a dual degree student in Engineering & Design at CY Tech in France.
+- I created my own none profit with my friend Alann, [**CyBotics**](https://linktr.ee/clubcybotics) ! We have specialized our selves in robotics and participated for our first year at the [coupe de France de robotique](https://www.coupederobotique.fr/) where we had to build a robot that moves wood plank on top of bean cans. This cup was where impressive for ous. We where just two student that never participated and managed to homologate our robot which is not given for a first timer. Other teams (which are 15 people on averadge) where very cool and we talk and learned a lot of new things !
+  
 ## 🛠️ Technical skills
 ### 👨‍💻 Programming languages
 <p>

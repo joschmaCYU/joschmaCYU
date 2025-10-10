@@ -47,7 +47,7 @@ Here is a video:
 #### 🏖️ <ins>New horizons</ins>
 - After developing mostly in **Java** for more that 4 years, I wanted to experience new things! And started to develop small personal modules in **Go, AI, Assembly Language, C, Embedded systems, Rust**.   
 
-#### 🤖 Robotcraft / Ingeniarus: Robotics
+#### <ins> Robotcraft at Ingeniarus: Robotics</ins>
 - During 2 month I attented [robotcraft](https://robotcraft.ingeniarius.pt/) and completed, the 2024 Summer Internship at Ingeniarus.
 - I learned a lot but most notably [ROS](https://www.ros.org/) which we used extensively in c++. If I had to describe what ROS is it's like whatsapp you can create chat group where people can post information or listen to information. This let's us create very complex systems. You can find the code that I made in ROS [here](https://github.com/joschmaCYU/ROS).
 - This is the [robot](https://youtube.com/shorts/SXlsa0vp95U?feature=share) that we used
@@ -56,6 +56,20 @@ Here is a video:
 #### <ins>CY école de design / CY Tech</ins>
 - I am currently studing at Cy école de design, in a dual degree student in Engineering & Design at CY Tech in France.
 - I created my own none profit with my friend Alann, [**CyBotics**](https://linktr.ee/clubcybotics) ! We have specialized our selves in robotics and participated for our first year at the [coupe de France de robotique](https://www.coupederobotique.fr/) where we had to build a robot that moves wood plank on top of bean cans. This cup was where impressive for ous. We where just two student that never participated and managed to homologate our robot which is not given for a first timer. Other teams (which are 15 people on averadge) where very cool and we talk and learned a lot of new things !
+
+#### Robotic French Cup - Coupe de France de robotique
+As part of CyBotics, the robotics association I co-founded, I designed and developed autonomous robots to compete in the Coupe de France de Robotique 2025 (French Robotics Cup). Our goal was to build fully autonomous robots capable of completing complex tasks on a themed arena within 100 seconds, without any human intervention.  
+  
+My main contributions included:  
+- Embedded software development in C++ and Arduino, focusing on motor control, sensor fusion, and autonomous decision-making.
+- Integration of encoder feedback for precise motion control and odometry.
+- ROS-based simulation and testing, optimizing algorithms before hardware deployment.
+- Mechanical and electronic integration, collaborating closely with design and electrical teams.
+- Strategic behavior design, implementing task sequencing and collision avoidance.
+
+This project involved the full development cycle — from prototyping and electronics assembly to software optimization and field testing — combining teamwork, systems engineering, and innovation under real competition constraints.  
+  
+![IMG_7699](https://github.com/user-attachments/assets/a812b899-2ac7-4e1c-a111-4a3a350ffec4)
   
 ## 🛠️ Technical skills
 ### 👨‍💻 Programming languages

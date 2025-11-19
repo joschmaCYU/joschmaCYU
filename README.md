@@ -257,8 +257,7 @@ timeline
 
 </details>
 
-<!--TLDR; REPLACE THE DOMAIN NAME
-ie. 'visitor-badge.glitch.me/badge?page_id=YOURPAGEID' --> 'https://vbr.nathanchung.dev/badge?page_id=YOURPAGEID'-->
+<!--TLDR; REPLACE THE DOMAIN NAME ie. 'visitor-badge.glitch.me/badge?page_id=YOURPAGEID' 'https://vbr.nathanchung.dev/badge?page_id=YOURPAGEID'-->
   
 ## 🛠️ Technical skills
 ### 👨‍💻 Programming languages

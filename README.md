@@ -128,28 +128,6 @@
       </p>
     </td>
   </tr>
-
-  <tr>
-    <td valign="top" align="center">
-      <a href="#">
-        <img src="https://ui-avatars.com/api/?name=Helvetis&background=2ECC71&color=fff&size=128" width="80px" style="border-radius:50%;">
-      </a>
-    </td>
-    <td valign="top">
-      <h3>Helvetis</h3>
-      <p>
-        <b>Lead Java Developer</b><br>
-        <i>Apr 2020 – Aug 2023 | Remote</i>
-      </p>
-      <p>
-        Led development for a Minecraft server community.
-        <ul>
-           <li>Managed a team of 5 staff members.</li>
-           <li>Oversaw server architecture and custom plugin development.</li>
-        </ul>
-      </p>
-    </td>
-  </tr>
 </table>
 
 <details>

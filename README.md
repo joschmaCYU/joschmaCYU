@@ -7,30 +7,153 @@
 </h6>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Self-taught+Franco-German+developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=20&pause=1000"></a>
-</p>
+</p>-->
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/a812b899-2ac7-4e1c-a111-4a3a350ffec4" width="500">
-</p>
-
-## 🤔 Who I am and where I come from  
-- I am a Franco-German dual degree student in Engineering & Design at CY Tech in France, who <ins>loves</ins> to code during his free time  
-
-<table role="presentation" width="100%" align="center">
+<table width="100%">
   <tr>
-    <td align="center">
-      <pre>
-💼 Engineering & Global Design
-💻 Low-level systems, embedded C/C++, ROS
-🎮 Games, music, art, creative coding
-🛠️ Side projects & technical challenges
-      </pre>
+    <td align="center" valign="middle" width="50%">
+      <h3>🇫🇷🇩🇪 Franco-German</h3>
+      <h3>🥐 Lives in Paris</h3>
+    <br>
+      <h3>💼 Studies Comp. Eng. & Global Design at CyTech</h3>
+    <br>
+      <h3>🤖 Works in robotics with ROS</h3>
+      <h3>📖 Codes in C++ Java Python</h3>
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <img src="https://github.com/user-attachments/assets/a812b899-2ac7-4e1c-a111-4a3a350ffec4" width="100%">
+    </td>
+  </tr>
+</table>
+<p>
+  <a href="https://www.linkedin.com/in/joschkamayer/">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" width="40" />
+  </a>
+  &nbsp; &nbsp; <a href="mailto:joschkamayer@proton.me">
+    <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fvectorified.com%2Fimages%2Femail-icon-white-transparent-33.png&sp=1765490559Ta6d534facf0fd3bbf4a0ff6a52c767f09ee75fab95dbdee6ff029d29a527942f" width="40" />
+  </a>
+</p>
+<br>
+<br>
+<br>
+
+---  
+<table width="100%">
+  <tr>
+    <td width="15%" valign="top" align="center">
+      <a href="#">
+        <img src="https://cybotics.odoo.com/web/image/website/1/logo/cybotics?unique=e9ad009" width="80px" style="border-radius:50%;">
+      </a>
+    </td>
+    <td width="85%" valign="top">
+      <h3>CyBotics Association</h3>
+      <p>
+        <b>Co-Founder</b><br>
+        <i>Sep 2024 – Present | IXCampus</i>
+      </p>
+      <p>
+        Co-founded a robotics association to promote innovation and train future talent.
+        <ul>
+           <li>Leading participation in competitions such as the <i>Coupe de France de Robotique</i>.</li>
+           <li>Managing corporate collaboration projects and developing robotic solutions.</li>
+        </ul>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" align="center">
+      <a href="#">
+        <img src="https://media.licdn.com/dms/image/v2/D560BAQFbt-Y_yyv0-Q/company-logo_200_200/company-logo_200_200/0/1719243163416/brightloop_logo?e=2147483647&v=beta&t=hbq2gl1jEbkS9OQEuEMdP5bvktKs86N76i2ojgzSq3U" width="80px" style="border-radius:50%;">
+      </a>
+    </td>
+    <td valign="top">
+      <h3>BrightLoop</h3>
+      <p>
+        <b>R&D Intern (Power Electronics)</b><br>
+        <i>Jul 2025 – Aug 2025 | Paris, France</i>
+      </p>
+      <p>
+        Worked in the power electronics research laboratory on high-performance resonant converters.
+        <ul>
+           <li>Contributed to the assembly and integration of converters alongside the R&D team.</li>
+           <li>Gained hands-on experience with advanced energy management systems.</li>
+        </ul>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" align="center">
+      <a href="#">
+        <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fingeniarius.pt%2Fwp-content%2Fuploads%2F2018%2F12%2FINGENIARIUS.png&sp=1765491925Ta08cc272b9e60e3a7f012b8694ae1c22495f43153bbb7825560d60494cc9bf0f" width="80px" style="border-radius:50%;">
+      </a>
+    </td>
+    <td valign="top">
+      <h3>Ingeniarius</h3>
+      <p>
+        <b>Intern (RobotCraft Program)</b><br>
+        <i>Jul 2024 – Aug 2024 | Porto, Portugal</i>
+      </p>
+      <p>
+        Completed the Robotics Craftsmanship International Academy (RobotCraft).
+        <ul>
+           <li>Mastered Arduino and ROS (Robot Operating System) for mobile robotics.</li>
+           <li>Designed, built, and programmed a custom mobile robot from scratch.</li>
+        </ul>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" align="center">
+      <a href="https://www.spigotmc.org/">
+        <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fminecraftservers_gamepedia_en%2Fimages%2Ff%2Fff%2FSpigot_logo.png%2Frevision%2Flatest%3Fcb%3D20200331211018&sp=1765491964T73a148ce8ea759cf827543162b0d5a891e044dff252fa8b0f27ab2dc6f8fed75" width="80px" style="border-radius:50%;">
+      </a>
+    </td>
+    <td valign="top">
+      <h3>SpigotMC Pty. Ltd.</h3>
+      <p>
+        <b>Plugin Developer</b><br>
+        <i>Dec 2021 – Jun 2024 | Remote</i>
+      </p>
+      <p>
+        Developed "YMA Block Party", a popular Minecraft game plugin.
+        <ul>
+           <li>Maintained compatibility across versions 1.13 to 1.20.</li>
+           <li>Implemented complex Java game logic and music synchronization.</li>
+        </ul>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" align="center">
+      <a href="#">
+        <img src="https://ui-avatars.com/api/?name=Helvetis&background=2ECC71&color=fff&size=128" width="80px" style="border-radius:50%;">
+      </a>
+    </td>
+    <td valign="top">
+      <h3>Helvetis</h3>
+      <p>
+        <b>Lead Java Developer</b><br>
+        <i>Apr 2020 – Aug 2023 | Remote</i>
+      </p>
+      <p>
+        Led development for a Minecraft server community.
+        <ul>
+           <li>Managed a team of 5 staff members.</li>
+           <li>Oversaw server architecture and custom plugin development.</li>
+        </ul>
+      </p>
     </td>
   </tr>
 </table>
 
+<details>
+  <summary><h2>My project year by year</h2></summary>
   
 ```mermaid
 ---
@@ -108,9 +231,10 @@ timeline
          : ROS simulation & algorithm optimization  
 
 ```
+  </details>
 
 <details>
-  <summary><h2>📦 All My Projects & Story (Click to Expand)</h2></summary>
+  <summary><h2>Details of all my projects & story</h2></summary>
   <h3>My beginnings (2017)</h3>
   <p>
     My passion for coding started early, at the age of 12 (2017). My first experience was <b>HTML/PHP/CSS</b>.<br>
@@ -256,8 +380,6 @@ timeline
   </p>
 
 </details>
-
-<!--TLDR; REPLACE THE DOMAIN NAME ie. 'visitor-badge.glitch.me/badge?page_id=YOURPAGEID' 'https://vbr.nathanchung.dev/badge?page_id=YOURPAGEID'-->
   
 ## 🛠️ Technical skills
 ### 👨‍💻 Programming languages
@@ -292,5 +414,3 @@ timeline
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
     <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joschmaCYU&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)

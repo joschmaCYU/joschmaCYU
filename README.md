@@ -38,8 +38,39 @@
 <br>
 <br>
 <br>
+<br>
+<h2>Project</h2>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+     <h3 align="center"> ROS2 Simulation</h3>
+      <br>
+      <p>
+        This is the software of our robot <br>
+        Autonomous navigation simulation for the French Robotics Cup. Features <b>Nav2</b>, <b>SLAM</b>, and dynamic obstacle avoidance.
+      </p>
+      <p>
+        <b>Tech Stack:</b><br>
+        <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2"/>
+        <img src="https://img.shields.io/badge/Gazebo-FF6F00?style=flat-square&logo=gazebo&logoColor=white" alt="Gazebo"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/Nav2-00C7B7?style=flat-square&logo=ros&logoColor=white" alt="Nav2"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/joschmaCYU/robot_creation">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
+        </a>
+        &nbsp;
+        <a href="https://github.com/user-attachments/assets/d2444627-f17e-4aef-86b0-52bc2a15ab69">
+          <img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
----  
+<h2>Experience</h2>
 <table width="100%">
   <tr>
     <td width="15%" valign="top" align="center">

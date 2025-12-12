@@ -17,7 +17,7 @@
       <h3>🇫🇷🇩🇪 Franco-German</h3>
       <h3>🥐 Lives in Paris</h3>
     <br>
-      <h3>💼 Studies Comp. Eng. & Global Design at CyTech</h3>
+      <h3>💼 Computer Engineering & Global Design <br>at CyTech</h3>
     <br>
       <h3>🤖 Works in robotics with ROS</h3>
       <h3>📖 Codes in C++ Java Python</h3>
@@ -29,16 +29,16 @@
 </table>
 <p>
   <a href="https://www.linkedin.com/in/joschkamayer/">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" width="40" />
+    <img width="40" alt="image" src="https://github.com/user-attachments/assets/83eb53f8-452e-45d2-9fec-6d94ad81b271"  />
   </a>
-  &nbsp; &nbsp; <a href="mailto:joschkamayer@proton.me">
-    <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fvectorified.com%2Fimages%2Femail-icon-white-transparent-33.png&sp=1765490559Ta6d534facf0fd3bbf4a0ff6a52c767f09ee75fab95dbdee6ff029d29a527942f" width="40" />
+  &nbsp; &nbsp; 
+  <a href="mailto:joschkamayer@proton.me">
+    <img width="40" alt="image" src="https://github.com/user-attachments/assets/a2b269cd-e7a0-4f3b-9ce6-e9f0dcdf783f" width="40" />
   </a>
 </p>
-<br>
-<br>
-<br>
-<br>
+
+<br><br><br><br>
+
 <h2>Project</h2>
 <table width="100%">
   <tr>
@@ -46,8 +46,9 @@
      <h3 align="center"> ROS2 Simulation</h3>
       <br>
       <p>
-        This is the software of our robot <br>
-        Autonomous navigation simulation for the French Robotics Cup. Features <b>Nav2</b>, <b>SLAM</b>, and dynamic obstacle avoidance.
+        The complete software stack powering our autonomous robot for the French 2025 Robotics Cup.<br>
+        Autonomous navigation simulation.<br>
+        Features <b>Nav2</b>, <b>SLAM</b>, and dynamic obstacle avoidance.
       </p>
       <p>
         <b>Tech Stack:</b><br>
@@ -82,13 +83,13 @@
       <h3>CyBotics Association</h3>
       <p>
         <b>Co-Founder</b><br>
-        <i>Sep 2024 – Present | IXCampus</i>
+        <i>Sept 2024 – Present | IXCampus</i>
       </p>
       <p>
-        Co-founded a robotics association to promote innovation and train future talent.
+        Co-founded a robotics association to promote innovation and train student to robotics.
         <ul>
            <li>Leading participation in competitions such as the <i>Coupe de France de Robotique</i>.</li>
-           <li>Managing corporate collaboration projects and developing robotic solutions.</li>
+           <li>Managing projects and helping other to learn.</li>
         </ul>
       </p>
     </td>
@@ -104,7 +105,7 @@
       <h3>BrightLoop</h3>
       <p>
         <b>R&D Intern (Power Electronics)</b><br>
-        <i>Jul 2025 – Aug 2025 | Paris, France</i>
+        <i>July 2025 – Aug 2025 | Paris, France</i>
       </p>
       <p>
         Worked in the power electronics research laboratory on high-performance resonant converters.
@@ -119,19 +120,19 @@
   <tr>
     <td valign="top" align="center">
       <a href="#">
-        <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fingeniarius.pt%2Fwp-content%2Fuploads%2F2018%2F12%2FINGENIARIUS.png&sp=1765491925Ta08cc272b9e60e3a7f012b8694ae1c22495f43153bbb7825560d60494cc9bf0f" width="80px" style="border-radius:50%;">
+        <img width="80" alt="image" src="https://github.com/user-attachments/assets/d2572fa6-7ce9-4f5a-9fd6-71807c5538a2" />
       </a>
     </td>
     <td valign="top">
       <h3>Ingeniarius</h3>
       <p>
         <b>Intern (RobotCraft Program)</b><br>
-        <i>Jul 2024 – Aug 2024 | Porto, Portugal</i>
+        <i>July 2024 – Aug 2024 | Porto, Portugal</i>
       </p>
       <p>
-        Completed the Robotics Craftsmanship International Academy (RobotCraft).
+        Obtained the RobotCraft european certification.
         <ul>
-           <li>Mastered Arduino and ROS (Robot Operating System) for mobile robotics.</li>
+           <li>Used Arduino, Raspery Pi and ROS (Robot Operating System) for mobile robotics.</li>
            <li>Designed, built, and programmed a custom mobile robot from scratch.</li>
         </ul>
       </p>
@@ -141,56 +142,62 @@
   <tr>
     <td valign="top" align="center">
       <a href="https://www.spigotmc.org/">
-        <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fminecraftservers_gamepedia_en%2Fimages%2Ff%2Fff%2FSpigot_logo.png%2Frevision%2Flatest%3Fcb%3D20200331211018&sp=1765491964T73a148ce8ea759cf827543162b0d5a891e044dff252fa8b0f27ab2dc6f8fed75" width="80px" style="border-radius:50%;">
+        <img width="80px" alt="image" src="https://github.com/user-attachments/assets/df311c7c-c08c-4581-8858-2c48dfda36fe" />
       </a>
     </td>
     <td valign="top">
       <h3>SpigotMC Pty. Ltd.</h3>
       <p>
         <b>Plugin Developer</b><br>
-        <i>Dec 2021 – Jun 2024 | Remote</i>
+        <i>Dec 2021 – June 2024 | Remote</i>
       </p>
       <p>
         Developed "YMA Block Party", a popular Minecraft game plugin.
         <ul>
-           <li>Maintained compatibility across versions 1.13 to 1.20.</li>
-           <li>Implemented complex Java game logic and music synchronization.</li>
+          <li>Implemented complex Java game logic and music synchronization.</li>
+          <li>Maintained compatibility across Minecraft versions 1.13 to 1.20.</li>
         </ul>
       </p>
     </td>
   </tr>
 </table>
 
+<!--
 <details>
-  <summary><h2>My project year by year</h2></summary>
+  <summary><h2>Projects year by year</h2></summary>
   
 ```mermaid
 ---
 config:
-  theme: 'base'
+  theme: 'dark'
   themeVariables:
-    darkMode: false
-    background: '#f4f4f4'
-    fontFamily: 'trebuchet ms, verdana, arial'
-    fontSize: '22px'
+    # Keeps the main background transparent so it blends with GitHub
+    background: 'transparent'
+    
+    # Text and Lines - White
+    textColor: '#ffffff'
+    lineColor: '#ffffff'
+    fontSize: '20px'
 
-    primaryColor: '#fff4dd'
-    primaryTextColor: '#333333'
-    primaryBorderColor: '#e0c9a8'
+    # ERA (Was Light Blue) -> Now WARM ORANGE
+    primaryColor: '#ea580c'
+    primaryTextColor: '#ffffff'
+    primaryBorderColor: '#fb923c'
 
-    secondaryColor: '#fde9c5'
-    secondaryTextColor: '#333333'
-    secondaryBorderColor: '#d6b98f'
+    # DATES (Kept Purple)
+    secondaryColor: '#8b5cf6'
+    secondaryTextColor: '#ffffff'
+    secondaryBorderColor: '#a78bfa'
 
-    tertiaryColor: '#fcdca6'
-    tertiaryTextColor: '#333333'
-    tertiaryBorderColor: '#caa773'
+    # EVENTS (Kept Teal/Green)
+    tertiaryColor: '#10b981'
+    tertiaryTextColor: '#ffffff'
+    tertiaryBorderColor: '#34d399'
 
-    noteBkgColor: '#fff5ad'
-    noteTextColor: '#333333'
-
-    lineColor: '#666666'
-    textColor: '#222222'
+    # NOTES (Was Black) -> Now SLATE GREY
+    noteBkgColor: '#374151'
+    noteTextColor: '#ffffff'
+    noteBorderColor: '#6b7280'
 ---
 
 timeline
@@ -241,7 +248,8 @@ timeline
 
 ```
   </details>
-
+-->
+<br><br>
 <details>
   <summary><h2>Details of all my projects & story</h2></summary>
   <h3>My beginnings (2017)</h3>
@@ -389,7 +397,9 @@ timeline
   </p>
 
 </details>
-  
+
+<br><br>
+
 ## 🛠️ Technical skills
 ### 👨‍💻 Programming languages
 <p>

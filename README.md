@@ -68,6 +68,29 @@
         </a>
       </p>
     </td>
+    <td width="50%" valign="top">
+  <h3 align="center">Punic War Tactics</h3>
+  <br>
+  <p>
+    A turn-based strategy game reconstructing the Punic Wars, built entirely with web technologies.<br>
+    Command Roman or Carthaginian forces, manage units, and strategize to dominate the battlefield.
+  </p>
+  <p>
+    <b>Tech Stack:</b><br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </p>
+  <p align="center">
+    <a href="https://github.com/joschmaCYU/HMTL_punic_war">
+      <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
+    </a>
+    &nbsp;
+    <a href="https://www.alexis-ravel.com/ix/ix_2025/punic-tactics/">
+      <img src="https://img.shields.io/badge/Play_Game-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white" height="25">
+    </a>
+  </p>
+</td>
   </tr>
 </table>
 

@@ -39,14 +39,16 @@
 
 <br><br><br><br>
 
-<h2>Project</h2>
+<h2>Projects</h2>
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
      <h3 align="center"> ROS2 Simulation</h3>
       <br>
+      <video src="https://github.com/user-attachments/assets/d2444627-f17e-4aef-86b0-52bc2a15ab69" controls="controls" muted="muted" style="max-width: 100%;">
+      </video>
       <p>
-        The complete software stack powering our autonomous robot for the French 2025 Robotics Cup.<br>
+        The complete software stack powering our autonomous <b>robot</b> for the French 2025 Robotics Cup.<br>
         Autonomous navigation simulation.<br>
         Features <b>Nav2</b>, <b>SLAM</b>, and dynamic obstacle avoidance.
       </p>
@@ -62,15 +64,13 @@
         <a href="https://github.com/joschmaCYU/robot_creation">
           <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
         </a>
-        &nbsp;
-        <a href="https://github.com/user-attachments/assets/d2444627-f17e-4aef-86b0-52bc2a15ab69">
-          <img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25">
-        </a>
       </p>
     </td>
     <td width="50%" valign="top">
   <h3 align="center">Punic War Tactics</h3>
   <br>
+    <video src="https://github.com/user-attachments/assets/4a05d0e9-d251-406e-84b1-faf3b1b79980" controls="controls" muted="muted" style="max-width: 100%;">
+    </video>
   <p>
     A turn-based strategy game reconstructing the Punic Wars, built entirely with web technologies.<br>
     Command Roman or Carthaginian forces, manage units, and strategize to dominate the battlefield.
@@ -94,7 +94,7 @@
   </tr>
 </table>
 
-<h2>Experience</h2>
+<h2>Experiences</h2>
 <table width="100%">
   <tr>
     <td width="15%" valign="top" align="center">

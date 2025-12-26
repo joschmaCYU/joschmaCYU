@@ -43,10 +43,12 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-     <h3 align="center"> ROS2 Simulation</h3>
+      <h3 align="center">ROS2 Simulation</h3>
       <br>
-      <video src="https://github.com/user-attachments/assets/d2444627-f17e-4aef-86b0-52bc2a15ab69" controls="controls" muted="muted" style="max-width: 100%;">
-      </video>
+      <div align="center">
+        <video src="https://github.com/user-attachments/assets/d2444627-f17e-4aef-86b0-52bc2a15ab69" controls="controls" muted="muted" style="max-width: 100%; border-radius:10px;">
+        </video>
+      </div>
       <p>
         The complete software stack powering our autonomous <b>robot</b> for the French 2025 Robotics Cup.<br>
         Autonomous navigation simulation.<br>
@@ -67,30 +69,60 @@
       </p>
     </td>
     <td width="50%" valign="top">
-  <h3 align="center">Punic War Tactics</h3>
-  <br>
-    <video src="https://github.com/user-attachments/assets/4a05d0e9-d251-406e-84b1-faf3b1b79980" controls="controls" muted="muted" style="max-width: 100%;">
-    </video>
-  <p>
-    A turn-based strategy game reconstructing the Punic Wars, built entirely with web technologies.<br>
-    Command Roman or Carthaginian forces, manage units, and strategize to dominate the battlefield.
-  </p>
-  <p>
-    <b>Tech Stack:</b><br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </p>
-  <p align="center">
-    <a href="https://github.com/joschmaCYU/HMTL_punic_war">
-      <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
-    </a>
-    &nbsp;
-    <a href="https://www.alexis-ravel.com/ix/ix_2025/punic-tactics/">
-      <img src="https://img.shields.io/badge/Play_Game-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white" height="25">
-    </a>
-  </p>
-</td>
+      <h3 align="center">Punic War Tactics</h3>
+      <br>
+      <div align="center">
+        <video src="https://github.com/user-attachments/assets/4a05d0e9-d251-406e-84b1-faf3b1b79980" controls="controls" muted="muted" style="max-width: 100%; border-radius:10px;">
+        </video>
+      </div>
+      <p>
+        A turn-based strategy game reconstructing the Punic Wars, built entirely with web technologies.<br>
+        Command Roman or Carthaginian forces, manage units, and strategize to dominate the battlefield.
+      </p>
+      <p>
+        <b>Tech Stack:</b><br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/joschmaCYU/HMTL_punic_war">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
+        </a>
+        &nbsp;
+        <a href="https://www.alexis-ravel.com/ix/ix_2025/punic-tactics/">
+          <img src="https://img.shields.io/badge/Play_Game-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white" height="25">
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">Brouss</h3>
+      <p>
+        My own <b>compiler</b> built from scratch in C++<br>
+        <pre align="left" style="display: inline-block; padding: 10px; border: 1px solid #30363d; border-radius: 6px;">
+// Code example
+int x = 10
+string s = "Hello!"
+while(x) {
+  print(s)
+  x = x - 1
+}</pre>
+        Parses a C-like language and compiles it into <b>x86-64 NASM assembly</b>.<br>
+        Features a handwritten lexer/parser, arithmetic operations, and control flow.
+      </p>
+      <p>
+        <b>Tech Stack:</b><br>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/NASM_Assembly-black?style=flat-square&logo=intel&logoColor=white" alt="NASM"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/joschmaCYU/brouss">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
+        </a>
+      </p>
+    </td>
   </tr>
 </table>
 

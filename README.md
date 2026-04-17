@@ -131,7 +131,7 @@ while(x) {
   <tr>
     <td width="15%" valign="top" align="center">
       <a href="#">
-        <img src="https://cybotics.odoo.com/web/image/website/1/logo/cybotics?unique=e9ad009" width="80px" style="border-radius:50%;">
+        <img width="947" height="739" alt="Logo CY Botics(1)" src="https://github.com/user-attachments/assets/d5e22235-2cbd-469c-a46b-ef6dc09e3058" />
       </a>
     </td>
     <td width="85%" valign="top">

@@ -52,7 +52,7 @@
       <p>
         The complete software stack powering our autonomous <b>robot</b> for the French 2025 Robotics Cup.<br>
         Autonomous navigation simulation.<br>
-        Features <b>Nav2</b>, <b>SLAM</b>, and dynamic obstacle avoidance.
+        Features <b>Nav2</b>, <b>SLAM</b>, <b>AMCL</b>, and dynamic obstacle avoidance.
       </p>
       <p>
         <b>Tech Stack:</b><br>

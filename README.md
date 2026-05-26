@@ -123,6 +123,34 @@ while(x) {
         </a>
       </p>
     </td>
+  <td width="50%" valign="top">
+      <h3 align="center">Autonomous ROS 2 Quadruped</h3>
+      <br>
+      <div align="center">
+        <img width="3168" height="1344" alt="Gemini_Generated_Image_kb07otkb07otkb07(2)" src="https://github.com/user-attachments/assets/939afc75-5fc8-49e8-b7fd-eb651436626a" />
+      </div>
+      <p>
+        An autonomous quadruped robot powered by ROS 2, featuring LiDAR-based SLAM, Nav2 path planning, and Micro-ROS hardware integration.<br>
+        Built with a containerized Docker architecture for reliable cross-compilation and deployment on a Raspberry Pi.
+      </p>
+      <p>
+        <b>Tech Stack:</b><br>
+        <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/joschmaCYU/quadruped">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
+        </a>
+        &nbsp;
+        <a href="https://youtube.com/YOUR_DEMO_LINK">
+          <img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25">
+        </a>
+      </p>
+    </td>
   </tr>
 </table>
 

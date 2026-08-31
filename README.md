@@ -167,8 +167,6 @@
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td valign="top" width="50%">
       <h3 align="center">Brouss</h3>
       <p>

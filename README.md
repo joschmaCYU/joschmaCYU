@@ -6,11 +6,6 @@
   Joschka Mayer
 </h6>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<!-- <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Self-taught+Franco-German+developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=20&pause=1000"></a>
-</p>-->
-
 <table width="100%">
   <tr>
     <td align="center" valign="middle" width="50%">
@@ -43,6 +38,81 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">ContinuO ROS Architecture</h3>
+      <br>
+      <div align="center">
+        <img width="400" height="400" alt="ContinuO" src="https://github.com/user-attachments/assets/30879ef1-416f-49a3-972a-24d325f776e6" />
+      </div>
+      <p>
+        A robust <b>ROS software architecture</b> for a highly articulated quadruped robot. Includes a real-time 3D perception pipeline transforming raw Ouster LiDAR data into elevation maps.
+        <br>Also integrates the embedded control logic for a 3-DOF spherical parallel manipulator (Orbita) to dynamically orient the head.
+      </p>
+      <p>
+        <b>Tech Stack:</b><br>
+        <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Gazebo-FF6F00?style=flat-square&logo=gazebo&logoColor=white" alt="Gazebo"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/joschmaCYU/ContinuO-Mitacs">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">ContinuO Reinforcement Learning</h3>
+      <br>
+      <div align="center">
+        <img width="400" height="400" alt="Screenshot_20260824_201013" src="https://github.com/user-attachments/assets/7c52325b-cd50-46d6-95b8-9ae3fff55214" />
+      </div>
+      <p>
+        Specialized <b>Deep Reinforcement Learning</b> policies trained in NVIDIA Isaac Lab.<br>
+        The agent controls the torso and neck articulation of the ContinuO quadruped to actively maximize LiDAR mapping coverage in hazardous environments.
+      </p>
+      <p>
+        <b>Tech Stack:</b><br>
+        <img src="https://img.shields.io/badge/NVIDIA_Isaac-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Isaac"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/RL-14354C?style=flat-square&logo=openai&logoColor=white" alt="Reinforcement Learning"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/joschmaCYU/Bend-RL-ContinuO-Mitacs">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Autonomous ROS 2 Quadruped</h3>
+      <br>
+      <div align="center">
+        <img width="3168" height="1344" alt="Gemini_Generated_Image_kb07otkb07otkb07(2)" src="https://github.com/user-attachments/assets/939afc75-5fc8-49e8-b7fd-eb651436626a" />
+      </div>
+      <p>
+        An autonomous quadruped robot powered by ROS 2, featuring LiDAR-based SLAM, Nav2 path planning, and Micro-ROS hardware integration.<br>
+        Built with a containerized Docker architecture for reliable cross-compilation and deployment on a Raspberry Pi.
+      </p>
+      <p>
+        <b>Tech Stack:</b><br>
+        <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/joschmaCYU/quadruped">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
+        </a>
+        &nbsp;
+        <a href="https://youtube.com/YOUR_DEMO_LINK">
+          <img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25">
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">ROS2 Simulation</h3>
       <br>
       <div align="center">
@@ -68,6 +138,8 @@
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Punic War Tactics</h3>
       <br>
@@ -123,46 +195,43 @@ while(x) {
         </a>
       </p>
     </td>
-  <td width="50%" valign="top">
-      <h3 align="center">Autonomous ROS 2 Quadruped</h3>
-      <br>
-      <div align="center">
-        <img width="3168" height="1344" alt="Gemini_Generated_Image_kb07otkb07otkb07(2)" src="https://github.com/user-attachments/assets/939afc75-5fc8-49e8-b7fd-eb651436626a" />
-      </div>
-      <p>
-        An autonomous quadruped robot powered by ROS 2, featuring LiDAR-based SLAM, Nav2 path planning, and Micro-ROS hardware integration.<br>
-        Built with a containerized Docker architecture for reliable cross-compilation and deployment on a Raspberry Pi.
-      </p>
-      <p>
-        <b>Tech Stack:</b><br>
-        <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-        <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
-      </p>
-      <p align="center">
-        <a href="https://github.com/joschmaCYU/quadruped">
-          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
-        </a>
-        &nbsp;
-        <a href="https://youtube.com/YOUR_DEMO_LINK">
-          <img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25">
-        </a>
-      </p>
-    </td>
   </tr>
 </table>
+
 
 <h2>Experiences</h2>
 <table width="100%">
   <tr>
-    <td width="15%" valign="top" align="center">
+    <td valign="top" align="center" width="15%">
+      <a href="#">
+        <img width="739" height="739" alt="university-of-calgary-logo-1834684873" src="https://github.com/user-attachments/assets/ece68a75-458c-4ae4-a84f-9c0b35a20b02" />
+      </a>
+    </td>
+    <td valign="top" width="85%">
+      <h3>Robotarium (University of Calgary) via Mitacs</h3>
+      <p>
+        <b>Research Intern in Robotics & Deep Reinforcement Learning</b><br>
+        <i>June 2026 – Sept 2026 | Calgary, Canada</i>
+      </p>
+      <p>
+        Focused on the sim-to-real transfer for ContinuO, a highly articulated quadruped robot designed for hazardous environments.
+        <ul>
+           <li>Developed a ROS architecture and 3D perception pipeline to process raw Ouster LiDAR data into elevation maps.</li>
+           <li>Engineered a custom hardware test rig and trained an Actuator Net to predict real-world DC motor torque.</li>
+           <li>Trained Deep Reinforcement Learning policies to control torso and neck articulation for mapping maximization.</li>
+           <li>Re-implemented embedded control logic for a 3-DOF spherical parallel manipulator (Orbita).</li>
+        </ul>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" align="center">
       <a href="#">
         <img width="947" height="739" alt="Logo CY Botics(1)" src="https://github.com/user-attachments/assets/d5e22235-2cbd-469c-a46b-ef6dc09e3058" />
       </a>
     </td>
-    <td width="85%" valign="top">
+    <td valign="top">
       <h3>CyBotics Association</h3>
       <p>
         <b>Co-Founder</b><br>
@@ -245,93 +314,6 @@ while(x) {
   </tr>
 </table>
 
-<!--
-<details>
-  <summary><h2>Projects year by year</h2></summary>
-  
-```mermaid
----
-config:
-  theme: 'dark'
-  themeVariables:
-    # Keeps the main background transparent so it blends with GitHub
-    background: 'transparent'
-    
-    # Text and Lines - White
-    textColor: '#ffffff'
-    lineColor: '#ffffff'
-    fontSize: '20px'
-
-    # ERA (Was Light Blue) -> Now WARM ORANGE
-    primaryColor: '#ea580c'
-    primaryTextColor: '#ffffff'
-    primaryBorderColor: '#fb923c'
-
-    # DATES (Kept Purple)
-    secondaryColor: '#8b5cf6'
-    secondaryTextColor: '#ffffff'
-    secondaryBorderColor: '#a78bfa'
-
-    # EVENTS (Kept Teal/Green)
-    tertiaryColor: '#10b981'
-    tertiaryTextColor: '#ffffff'
-    tertiaryBorderColor: '#34d399'
-
-    # NOTES (Was Black) -> Now SLATE GREY
-    noteBkgColor: '#374151'
-    noteTextColor: '#ffffff'
-    noteBorderColor: '#6b7280'
----
-
-timeline
-
-    2017 : Beginnings  
-           : Started coding at age 12  
-           : Learned HTML / PHP / CSS  
-           : Switched to Unity (C#) and built first video game at ISART Summer School
-
-    2020 : Helvetis Minecraft Server  
-         : Joined Helvetis team (5 members)  
-         : Became Administrator  
-         : Learned Java, SQL, Spigot  
-         : Managed a community & developed plugins  
-         : Team became close friends and met in real life
-
-    2020-2025 : SpigotMC  
-              : Sold custom on-demand plugins  
-              : Created & sold Block Party plugin (200+ sales)  
-              : Online store and YouTube previews  
-              : Since July 2024: plugin becomes community maintained
-
-    2021-2023 : New Horizons  
-              : Explored Go, AI, Assembly, C, embedded systems, Rust  
-              : Development of small experimental modules
-
-    Summer 2023 : Robotcraft – Ingeniarius  
-                 : Completed robotics internship (2 months)  
-                 : Learned ROS (C++), robot control, maze solving  
-                 : Built and programmed mobile robot systems
-
-    2023-2029 : CY école de design / CY Tech  
-               : Dual Degree Engineering & Design (France)  
-               : Passion for robotics, software & hardware  
-               : Co-founded CyBotics (non-profit robotics association)  
-               : First participation in the Coupe de France de Robotique
-
-    2024 : CyBotics – First Competition  
-         : Designed robot to move wooden planks on bean cans  
-         : Two-person team, succeeded homologation on first try  
-         : Learned from other teams and improved robotics skills
-
-    2025 : Coupe de France de Robotique  
-         : Developed autonomous competition robots  
-         : Embedded C++ & Arduino software  
-         : Encoder feedback, odometry, motion control  
-         : ROS simulation & algorithm optimization  
-
-```
-  </details>
--->
 <br><br>
 <details>
   <summary><h2>Details of all my projects & story</h2></summary>
@@ -473,10 +455,17 @@ timeline
     <li>Mechanical and electronic integration, collaborating closely with design and electrical teams.</li>
     <li>Strategic behavior design, implementing task sequencing and collision avoidance.</li>
   </ul>
-
+  
   <p>
     This project involved the full development cycle — from prototyping and electronics assembly to software optimization and field testing —
     combining teamwork, systems engineering, and innovation under real competition constraints.
+  </p>
+
+  <hr>
+
+  <h3><ins>Mitacs Globalink Research Internship (Summer 2026)</ins></h3>
+  <p>
+    I completed a research internship at the Robotarium (University of Calgary) working on the sim-to-real transfer for a highly articulated quadruped robot named ContinuO. I built a ROS-based 3D perception pipeline for an Ouster LiDAR, tackled hardware-software integration for a 3-DOF robotic neck (Orbita), and set up a custom physical rig to gather motor data. Using this data, I trained an Actuator Net and Deep Reinforcement Learning policies in NVIDIA Isaac Lab to optimize the robot's physical movements and mapping capabilities in confined spaces.
   </p>
 
 </details>
@@ -490,7 +479,7 @@ timeline
 <a href="#"><img alt="ROS" src="https://custom-icon-badges.demolab.com/badge/ROS-blue?logo=ros_logo&logoColor=black"></a>
 <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="#"><img alt="Rust" src="https://img.shields.io/badge/-rust-lightgrey?logo=rust&logoColor=white"></a>
-<a href="#"><img alt="Rust" src="https://img.shields.io/badge/-Go-navy?logo=go&logoColor=white"></a>
+<a href="#"><img alt="Go" src="https://img.shields.io/badge/-Go-navy?logo=go&logoColor=white"></a>
 <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
 <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
